@@ -1,4 +1,3 @@
-// src/hooks/useAbly.ts
 import {useEffect, useState} from 'react';
 import ablyClient from '../ably';
 

@@ -1,4 +1,3 @@
-// src/components/Publisher.tsx
 import {useState} from 'react';
 import ablyClient from '../ably';
 

@@ -1,4 +1,3 @@
-// src/components/Subscriber.tsx
 import useAbly from '../hooks/useAbly';
 
 const Subscriber = ({ channelName }: { channelName: string }) => {
